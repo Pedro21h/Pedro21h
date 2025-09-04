@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Developer in formation on SENAI/SC</p>
+<p align="left">Developer in training at SENAI/SC</p>
 
 ###
 
